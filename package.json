@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "simple gulp template",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/ToyLess78/gulp-template/issues"
   },
-  "homepage": "https://github.com/ToyLess78/gulp-template#readme"
+  "homepage": "https://github.com/ToyLess78/gulp-template#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssbeautify": "^3.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "npm": "^10.8.1",
+    "sass": "^1.77.4"
+  }
 }
