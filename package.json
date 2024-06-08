@@ -1,0 +1,19 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "simple gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToyLess78/gulp-template.git"
+  },
+  "author": "Tetiana Bilenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToyLess78/gulp-template/issues"
+  },
+  "homepage": "https://github.com/ToyLess78/gulp-template#readme"
+}
