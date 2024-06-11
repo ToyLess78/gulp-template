@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "dev": "gulp",
+    "build": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,8 +23,10 @@
     "browser-sync": "^3.0.2",
     "gulp": "^5.0.0",
     "gulp-autoprefixer": "^9.0.0",
+    "gulp-clean": "^0.4.0",
     "gulp-concat": "^2.6.1",
     "gulp-cssbeautify": "^3.0.1",
+    "gulp-file-include": "^2.3.0",
     "gulp-sass": "^5.1.0",
     "gulp-uglify-es": "^3.0.0",
     "npm": "^10.8.1",
